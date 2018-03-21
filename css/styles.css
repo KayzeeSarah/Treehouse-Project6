@@ -45,7 +45,7 @@ body {
   .wrap-vid,
   .wrap-tscript {
       max-width: 75%;
-      margin: 5% auto;
-      padding-bottom: 15px;
+      margin: 3% auto;
+      padding-bottom: 8px;
   }
 }
